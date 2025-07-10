@@ -2,9 +2,9 @@ import type { Config } from './types';
 
 export default {
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'MSBTE Scholar',
+  shortName: 'MSBTE Scholar',
+  description: 'MSBTE Scholor is a Online Study Platform for Polytechnic Students. Syllabus,Books,Model Answer,Micro/mega Project',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
