@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'MSBTE Scholar',
   shortName: 'MSBTE Scholar',
-  description: 'MSBTE Scholar description goes here...',
+  description: 'MSBTE Scholor is a Online Study Platform for Polytechnic Students. Syllabus, Books, Model Answer, Mega Project.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
