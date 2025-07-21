@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "MSBTE Scholar",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "MSBTE Scholar",
+  "description": "MSBTE Scholar description goes here...",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "natural",
