@@ -7,7 +7,7 @@
   "lang": "en-US",
   "orientation": "natural",
   "start_url": "https://materialuiwal.blogspot.com/?utm_source=homescreen",
-  "scope": "https://materialuiwal.blogspot.com/",
+  "scope": "https://materialuiwal.blogspot.com/", 
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
