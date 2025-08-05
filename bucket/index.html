@@ -88,6 +88,13 @@
         style="fill-opacity: 0.91; fill-rule: nonzero" />
     </g>
   </svg>
+  <script>window.addEventListener('appinstalled', (evt) => {
+  gtag('event', 'pwa_install', {
+    event_category: 'PWA',
+    event_label: 'App Installed'
+  });
+});
+</script>
 </body>
 
 </html>
