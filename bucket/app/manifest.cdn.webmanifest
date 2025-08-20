@@ -4,7 +4,7 @@
   "short_name": "Digital Salekasa",
   "description": "Digital Salekasa is a Smart Taluka-level Digital Platform.",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "en-US", 
   "orientation": "natural",
   "start_url": "https://deorikar.blogspot.com/?utm_source=homescreen",
   "scope": "https://deorikar.blogspot.com/",
