@@ -4,7 +4,7 @@ export default {
   id: '/',
   name: 'Digital Salekasa',
   shortName: 'Digital Salekasa',
-  description: 'Digital Salekasa is a Smart Taluka-level Digital Platform.',
+  description: 'Digital Salekasa is a Smart Taluka-level Digital Platform.', 
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
