@@ -103,5 +103,5 @@
   ],
   "serviceworker": {
     "src": "serviceworker.js"
-  }
+  } 
 }
