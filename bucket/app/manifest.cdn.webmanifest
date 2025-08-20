@@ -1,13 +1,13 @@
 {
-  "name": "MSBTE Scholar",
+  "name": "Digital Salekasa",
   "id": "/",
-  "short_name": "MSBTE Scholar",
-  "description": "MSBTE Scholor is a Online Study Platform for Polytechnic Students. Syllabus, Books, Model Answer, Mega Project.",
+  "short_name": "Digital Salekasa",
+  "description": "Digital Salekasa is a Smart Taluka-level Digital Platform.",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "en-US", 
   "orientation": "natural",
-  "start_url": "https://materialuiwal.blogspot.com/?utm_source=homescreen",
-  "scope": "https://materialuiwal.blogspot.com/",
+  "start_url": "https://deorikar.blogspot.com/?utm_source=homescreen",
+  "scope": "https://deorikar.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -75,50 +75,12 @@
       "type": "image/png"
     }
   ],
-  "screenshots": [
-    {
-      "src": "screenshots/screen-narrow-1.png",
-      "type": "image/png",
-      "sizes": "540x720",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "screenshots/screen-narrow-2.png",
-      "type": "image/png",
-      "sizes": "540x720",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "screenshots/screen-narrow-3.png",
-      "type": "image/png",
-      "sizes": "540x720",
-      "form_factor": "narrow"
-    },
-    {
-      "src": "screenshots/screen-wide-1.png",
-      "type": "image/png",
-      "sizes": "720x540",
-      "form_factor": "wide"
-    },
-    {
-      "src": "screenshots/screen-wide-2.png",
-      "type": "image/png",
-      "sizes": "720x540",
-      "form_factor": "wide"
-    },
-    {
-      "src": "screenshots/screen-wide-3.png",
-      "type": "image/png",
-      "sizes": "720x540",
-      "form_factor": "wide"
-    }
-  ],
   "shortcuts": [
     {
       "name": "Shortcut 1",
       "short_name": "Shortcut 1",
       "description": "Shortcut 1 description goes here...",
-      "url": "https://materialuiwal.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "url": "https://deorikar.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -130,7 +92,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://materialuiwal.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://deorikar.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
